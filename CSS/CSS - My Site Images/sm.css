@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.one{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: plum;
+}
+.two{
+    position: fixed;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+}
+.three{
+    position:relative;
+    left: 400px;
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+}
